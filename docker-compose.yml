@@ -1,0 +1,13 @@
+version: "2.4"
+services:
+  printer:
+    build: .
+    command: python ./test_koek/first_script.py --print_string blablabla
+
+  multiplier_full:
+    build: .
+    command: python ./test_koek/first_script.py --param 100
+
+ # multiplier_short:
+ #   build: .
+ #   command: python ./first_script.py --param 5

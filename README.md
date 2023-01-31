@@ -6,7 +6,7 @@
 [![Commit activity](https://img.shields.io/github/commit-activity/m/joostnjns/test-koek)](https://img.shields.io/github/commit-activity/m/joostnjns/test-koek)
 [![License](https://img.shields.io/github/license/joostnjns/test-koek)](https://img.shields.io/github/license/joostnjns/test-koek)
 
-De code in deze repo is gebruikt om de coockiecutter en functionaliteiten te testen.
+MLKJMKJ
 
 - **Github repository**: <https://github.com/joostnjns/test-koek/>
 - **Documentation** <https://joostnjns.github.io/test-koek/>
